@@ -1,10 +1,9 @@
 ---
 title: Crashing The Eggs Using USB Cable
-author: luksmi
 date: 2023-03-07 14:55:00 +0200
 categories: [Tutorial, Cooking]
 tags: [eggs cooking]
-pin: true
+pin: false
 ---
 
 ## Prerequisites
