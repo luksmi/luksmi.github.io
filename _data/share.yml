@@ -4,11 +4,11 @@
 platforms:
   -
     type: Twitter
-    icon: "fab fa-twitter"
+    icon: "fab fa-square-twitter"
     link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
   -
     type: Facebook
-    icon: "fab fa-facebook-square"
+    icon: "fab fa-facebook"
     link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
   -
     type: Telegram
@@ -17,9 +17,9 @@ platforms:
 
   # Uncomment below if you need to.
   # -
-  #   type: Linkedin
-  #   icon: "fab fa-linkedin"
-  #   link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
+    type: Linkedin
+    icon: "fab fa-linkedin"
+    link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
   #
   # -
   #   type: Weibo
