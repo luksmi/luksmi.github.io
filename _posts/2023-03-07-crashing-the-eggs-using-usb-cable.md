@@ -4,7 +4,7 @@ date: 2023-03-07 14:55:00 +0200
 categories: [Tutorial, Cooking]
 tags: [eggs, cooking]
 pin: false
-image: /assets/images/avatar.png
+img: /assets/images/avatar.png
 ---
 
 ## Prerequisites
