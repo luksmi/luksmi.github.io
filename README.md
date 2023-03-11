@@ -1,3 +1,3 @@
-# https://luksmi.github.io
+# Tech blog
 
-Tech blog
+https://luksmi.github.io
