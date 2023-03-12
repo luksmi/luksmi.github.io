@@ -4,8 +4,8 @@ date: 2023-03-07 23:35:00 +0100
 categories: [programming, beginner]
 tags: [programming, junior, beginner, languages]
 image:
-  path: /assets/images/posts/2023-03-07/img.png
-  lqip: /assets/images/posts/2023-03-07/img.png
+  path: /assets/images/posts/2023-03-07/img.jpg
+  lqip: /assets/images/posts/2023-03-07/img.jpg
 pin: true
 ---
 
