@@ -19,7 +19,7 @@ timezone: Europe/Warsaw
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Łukasz Śmigielski # the main title
+title: Śmigielski Tech Blog  # the main title
 
 tagline: Blog on How To Disappear Completely   # it will display as the sub-title
 
@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   Blog on How To Disappear Completely
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://luksmi.github.io'
+url: 'https://www.smigielski.tech'
 
 github:
   username: luksmi             # change to your github username

@@ -1,3 +1,3 @@
 # Tech blog
 
-https://luksmi.github.io
+https://smigielski.tech

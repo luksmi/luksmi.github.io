@@ -6,10 +6,6 @@
 -
   type: github
   icon: 'fab fa-github'
--
-  type: instagram
-  icon: 'fa-brands fa-instagram'
-  url: 'https://www.instagram.com/el_smigiel'
 
 # Uncomment and complete the url below to enable more contact options
 # -
