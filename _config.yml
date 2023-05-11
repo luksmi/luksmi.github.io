@@ -19,7 +19,7 @@ timezone: Europe/Warsaw
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Śmigielski Tech Blog  # the main title
+title: Śmigielski | Tech Blog # the main title
 
 tagline: Blog on How To Disappear Completely   # it will display as the sub-title
 
