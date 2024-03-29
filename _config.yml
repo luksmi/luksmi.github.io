@@ -21,10 +21,10 @@ timezone: Europe/Warsaw
 
 title: Śmigielski | Tech Blog # the main title
 
-tagline: Blog on How To Disappear Completely   # it will display as the sub-title
+tagline: Personal blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Blog on How To Disappear Completely
+  Personal blog 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://www.smigielski.tech'
