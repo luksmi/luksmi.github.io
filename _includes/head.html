@@ -6,7 +6,12 @@
   <!-- START OF MY CUSTOM CODE -->
   <meta name="google-site-verification" content="9pYKBdU1YuPMpe4JQJtFzJLxclFoVHOTTRPRFn7TPD4" />
 
-  <meta property="og:image" content="https://smigielski.tech/assets/images/avatar.jpg"/>
+  <!-- <meta property="og:image" content="https://smigielski.tech/assets/images/avatar.jpg"/> -->
+  {% if page.image.path %}
+  <meta property="og:image" content="{{ site.url }}{{ page.image.path | prepend: site.baseurl }}" />
+  {% else %}
+  <meta property="og:image" content="https://smigielski.tech/assets/images/avatar.jpg" />
+  {% endif %}
   <!-- END OF MY CUSTOM CODE -->
   
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
