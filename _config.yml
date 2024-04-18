@@ -21,10 +21,10 @@ timezone: Europe/Warsaw
 
 title: Śmigielski | Tech Blog # the main title
 
-tagline: Personal blog   # it will display as the sub-title
+tagline: it depends   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Personal blog 
+  it depends 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://www.smigielski.tech'
